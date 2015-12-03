@@ -1,0 +1,47 @@
+.background {
+  background: url("https://qzprod.files.wordpress.com/2015/09/rtx1ov08.jpg?quality=80&strip=all&w=1600") fixed center no-repeat;
+  background-size: cover;
+  width: 100%;
+  padding: 300px;
+  padding-left: 150px;
+}
+
+h1 {
+  border: none;
+  background: none;
+  font-family: "courier new";
+  color: #8585ad;
+  font-size: 46px;
+  width: 400px;
+}
+
+.button {
+  outline: 0;
+  padding: 0px;
+  border: none;
+  background: none;
+  font-family: "courier new";
+  margin: auto;
+  color: #d1d1e0;
+  text-align: center;
+  font-size: 46px;
+}
+
+.button:hover {
+  color: white;
+}
+p {
+  font-family: "courier new";
+  font-size: 1.5em;
+  color: #8585ad;
+  padding: none;
+  margin: none;
+}
+
+.quote {
+  font-family: "courier new";
+  font-size: 2em;
+  width: 400px;
+  height: 250px;
+  color: #8585ad;
+}
