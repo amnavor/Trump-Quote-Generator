@@ -22,13 +22,13 @@ h1 {
   background: none;
   font-family: "courier new";
   margin: auto;
-  color: #d1d1e0;
+  color: white;
   text-align: center;
   font-size: 46px;
 }
 
 .button:hover {
-  color: white;
+  color: #ffff66;
 }
 p {
   font-family: "courier new";
