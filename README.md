@@ -1,4 +1,4 @@
-A random quote generator for quotes by Donald Trump. Try it at http://codepen.io/amnavor/full/wMwEOq/.
+A random quote generator for quotes by Donald Trump. New quotes added throughout the 2016 election cycle! Try it at http://codepen.io/amnavor/full/wMwEOq/.
 
 
  
