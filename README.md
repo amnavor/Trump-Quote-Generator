@@ -1,5 +1,5 @@
 A random quote generator for quotes by Donald Trump. New quotes added throughout the election 
-cycle! Try it at http://codepen.io/amnavor/full/wMwEOq/.
+cycle! [Try it out](http://codepen.io/amnavor/full/wMwEOq/).
 
 
  
