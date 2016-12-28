@@ -1,4 +1,5 @@
 A random quote generator for quotes by Donald Trump. 
+
 New quotes added throughout the election 
 cycle and presidency. [Try it out](http://codepen.io/amnavor/full/wMwEOq/).
 
