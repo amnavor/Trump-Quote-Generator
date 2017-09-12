@@ -5,6 +5,6 @@ cycle and presidency. [Try it out](http://codepen.io/amnavor/full/wMwEOq/).
 
 
  
-![trump](https://cloud.githubusercontent.com/assets/12720744/17600432/537dbba0-5fb8-11e6-931e-408becee6814.gif)
+![trump](https://user-images.githubusercontent.com/12720744/30346008-2617486a-97bc-11e7-8220-0be48523bbe9.gif)
 
 Image from Reuters/Brian Snyder
