@@ -13,18 +13,20 @@ h1 {
   font-family: "courier new";
   color: #8585ad;
   font-size: 46px;
-  width: 400px;
+  width: 300px;
+  position: absolute;
+  top: 50px;
 }
 
 .button {
   outline: 0;
-  padding: 0px;
-  border: none;
   background: none;
   font-family: "courier new";
-  margin: auto;
+  border: none;
+  margin-left: -5px;
+  width: 300px;
   color: white;
-  text-align: center;
+  text-align: left;
   font-size: 46px;
 }
 
@@ -43,6 +45,8 @@ p {
   font-family: "courier new";
   font-size: 2em;
   width: 400px;
-  height: 250px;
+  height: 270px;
   color: #8585ad;
+  position: absolute;
+  top: 260px;
 }
